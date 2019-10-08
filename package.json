@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "express-session": "^1.16.2",
+    "hbs": "^4.0.5",
+    "mongodb": "^3.3.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "react-twitter-auth": "0.0.13",
+    "twit": "^2.2.11"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
   }
 }
