@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "express-session": "^1.16.2",
-    "hbs": "^4.0.5",
+    "hbs": "^4.2.0",
     "mongodb": "^3.3.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
